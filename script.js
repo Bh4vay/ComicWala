@@ -137,8 +137,8 @@ document.querySelectorAll("button").forEach((btn) => {
 });
 
 function redirectToStreamlit2() {
-  window.open("", "_blank"); 
+  window.open("", "_blank");  //Add link for tinyllama
 }
 function redirectToStreamlit1() {
-  window.open("https://b2ad5c41e69b1e37c2.gradio.live", "_blank"); 
+  window.open("", "_blank"); //Add link for phi2
 }
