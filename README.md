@@ -10,11 +10,14 @@ The platform is designed to provide an immersive experience where users can desc
 - **Automated Comic Illustration Creation** via **Stable Diffusion Turbo and OpenJourney**
 - **Gradio Interface for Real-Time AI Interaction**
 - **Seamless User Experience for Storytelling and Visualization**
+- Added audio narration feature as well.
+- Also used PG-13 filter for safe exposure to young kids.
 
 ## Technologies Used
 - **Gradio** (for interactive AI-based comic generation)
 - **TinyLlama and Phi2** (for dynamic comic script creation)
 - **Stable Diffusion Turbo and OpenJourney** (for generating high-quality comic illustrations)
+- gTTX for audio narration.
 - **HTML5, CSS3, JavaScript** (for web interface)
 
 ## Installation
