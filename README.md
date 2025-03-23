@@ -31,9 +31,6 @@ The platform is designed to provide an immersive experience where users can desc
    ```
 3. Open `index.html` in your browser or run the Gradio interface to interact with AI.
 
-## Backend Colab files used
-- [Phi2 and SD-Turbo](https://colab.research.google.com/drive/1Pv8s5WhOnMyKqL75XUGkWQOoNSyfeI4a?usp=sharing)
-- [TinyLlama and OpenJourney](https://colab.research.google.com/drive/1X1mqVu8_4AIQpz8AlyighkbhvQVLm0I1?usp=sharing)
 
 ## Usage
 1. Enter a prompt describing your comic idea in the **Gradio interface**.
