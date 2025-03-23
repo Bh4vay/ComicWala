@@ -124,10 +124,10 @@ document.querySelectorAll("button").forEach((btn) => {
 
 
 function redirectToStreamlit1() {
-  window.open("", "_blank");
+  window.open("https://d8cbc4585a1e96b004.gradio.live/", "_blank");
 }
 
 function redirectToStreamlit2() {
-  window.open("", "_blank"); 
+  window.open("https://c5ebece872bf045407.gradio.live", "_blank"); 
 }
 
