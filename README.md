@@ -40,7 +40,7 @@ The platform is designed to provide an immersive experience where users can desc
 2. **Phi2 and TinyLlama** will generate a detailed script, including dialogues and captions.
 3. **Stable Diffusion Turbo and OpenJourney** will create high-quality comic illustrations based on the script.
 4. The generated comic can be previewed and downloaded directly from the platform.
-
+5. Also the user can get the generated story narrated as well.
 
 ## License
 This project is licensed under the MIT License.
