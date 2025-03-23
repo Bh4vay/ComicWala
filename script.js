@@ -124,10 +124,10 @@ document.querySelectorAll("button").forEach((btn) => {
 
 
 function redirectToStreamlit1() {
-  window.open("https://c9842372680f9ccb30.gradio.live", "_blank");
+  window.open("https://a0c54a390330ed1ea1.gradio.live", "_blank");
 }
 
 function redirectToStreamlit2() {
-  window.open("https://df76686c3d16410545.gradio.live", "_blank"); //enter the gradio link generated using colab
+  window.open("https://81051429544bca01ee.gradio.live", "_blank"); //enter the gradio link generated using colab
 }
 
