@@ -128,6 +128,6 @@ function redirectToStreamlit1() {
 }
 
 function redirectToStreamlit2() {
-  window.open("", "_blank"); //enter the gradio link generated using colab
+  window.open("https://df76686c3d16410545.gradio.live", "_blank"); //enter the gradio link generated using colab
 }
 
