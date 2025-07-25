@@ -41,6 +41,7 @@ The platform is designed to provide an immersive experience where users can desc
 
 ## Colab file
 - [Link](https://colab.research.google.com/drive/1PyKRfQM2cXJ2RK1_k37qwyZevsNyXUtC)
+- [Link](https://colab.research.google.com/drive/1Jl8rjoxzUkJsEh44w_i-juTNABxL76Vx)
 
 ## License
 This project is licensed under the MIT License.
