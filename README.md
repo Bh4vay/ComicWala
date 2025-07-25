@@ -40,7 +40,7 @@ The platform is designed to provide an immersive experience where users can desc
 5. Also the user can get the generated story narrated as well.
 
 ## Colab file
-- Link(https://colab.research.google.com/drive/1PyKRfQM2cXJ2RK1_k37qwyZevsNyXUtC)
+- [Link](https://colab.research.google.com/drive/1PyKRfQM2cXJ2RK1_k37qwyZevsNyXUtC)
 
 ## License
 This project is licensed under the MIT License.
